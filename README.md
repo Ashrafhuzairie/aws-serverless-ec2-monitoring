@@ -12,7 +12,15 @@ This project demonstrates an **event-driven architecture on AWS** that monitors 
 - Amazon EventBridge  
 - AWS Lambda  
 - Amazon CloudWatch  
-- IAM  
+- IAM
+
+## 🏗️ System Architecture
+
+<p align="center">
+  <img src="docs/images/aws-serverless-ec2-monitoring.png" width="800" />
+</p 
+
+This diagram displaye the workflow for serverless AWS EC2 Monitoring
 
 ## 🔄 Implementation Steps (Based on Screenshots)
 

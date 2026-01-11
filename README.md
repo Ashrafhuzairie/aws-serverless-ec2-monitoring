@@ -187,3 +187,18 @@ Verify Lambda execution logs and metrics in Amazon CloudWatch.
 <p align="center">
   <img src="docs/images/Project 2 - Step 23.png" width="500" />
 </p>
+
+
+📊 Monitoring & Observability
+
+- Lambda invocation count and duration tracked via CloudWatch
+- EC2 instance details logged automatically
+- No manual execution required
+
+✅ Key Learning Outcomes
+
+- Event-driven architecture using Amazon EventBridge
+- Serverless compute with AWS Lambda
+- EC2 lifecycle monitoring
+- CloudWatch logging and observability
+- IAM role and permission management
